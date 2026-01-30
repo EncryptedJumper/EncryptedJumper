@@ -23,4 +23,4 @@ Not Open for commisions (Currently)
 - Have been programming for over 5+ years now
 - Hobbies: Car Photography & Creating
 
-- **SHOWCASES OF MY WORK COMING SOON!**
+ **SHOWCASES OF MY WORK COMING SOON!**
