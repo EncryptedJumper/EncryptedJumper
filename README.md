@@ -21,6 +21,6 @@ Not Open for commisions (Currently)
 - I play the Guitar & Sing
 - Speak 3 Languages (Spanish, French & English)
 - Have been programming for over 5+ years now
-- Hobbies: Car Photography & Creating
+- **Hobbies:** Car Photography & Creating
 
  **SHOWCASES OF MY WORK COMING SOON!**
