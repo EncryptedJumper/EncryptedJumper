@@ -5,8 +5,7 @@ My name is Jesus, Jumper & Levitico, A Modeler, Programmer & GFX Designer
 **Currently only focuses on:**
 - React, Python & Lua!
 - UI/UX Building
-
-Working towards a Computer Science Major
+- Creating Assets
 
 Not Open for commisions (Currently)
 
@@ -18,9 +17,10 @@ Not Open for commisions (Currently)
 - Cursor & Visual Studio Code
 
 #
-**A Bit About Me**
+**A Bit About Me & My Goals**
 
 - I Play the Guitar & Sing
+- Working Towards a Computer Science major
 - Speak 2 Languages (Spanish & English) 
 - Have been programming for over 5+ years now
 - **Hobbies:** Car Photography & Creating
