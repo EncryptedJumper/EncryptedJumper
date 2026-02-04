@@ -1,8 +1,10 @@
-**Hello there 👋**
+**Hey there! 👋**
 
 My name is Jesus, Jumper & Levitico, A Modeler, Programmer & GFX Designer
 
-Currently only specializes on Python & Lua!
+**Currently only focuses on:**
+- React, Python & Lua!
+- UI/UX Building
 
 Working towards a Computer Science Major
 
@@ -18,8 +20,8 @@ Not Open for commisions (Currently)
 #
 **A Bit About Me**
 
-- I play the Guitar & Sing
-- Speak 3 Languages (Spanish, French & English)
+- I Play the Guitar & Sing
+- Speak 2 Languages (Spanish & English) 
 - Have been programming for over 5+ years now
 - **Hobbies:** Car Photography & Creating
 
