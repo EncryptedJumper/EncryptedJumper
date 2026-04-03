@@ -1,9 +1,8 @@
 **Hey there! 👋**
 
-My name is Jesus, Jumper & Levitico, A Modeler, Programmer & GFX Designer, i enjoy creating things that come to mind!
+My name is Jesus, Jumper & Levitico, A Modeler, Programmer & GFX Designer.
 
 **Currently only focuses on:**
-- React, Python & Lua!
 - UI/UX Building
 - Creating Assets
 
@@ -23,5 +22,3 @@ Not Open for commisions (Currently)
 - Working Towards CS major
 - Speak 2 Languages (Spanish & English)
 - **Hobbies:** Car Photography & Creating
-
- **SHOWCASES OF MY WORK COMING SOON!**
