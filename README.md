@@ -9,7 +9,7 @@ also working towards CS major!
 
 #
 
-**Tools & Programs :** `Cursor` • `VS Code` • `Figma` • `Blender` • `Notion`
+**Tools & Programs :** `Cursor` • `VS Code` • `Figma` • `Blender`
 
 #
 
@@ -17,7 +17,5 @@ also working towards CS major!
 
 
 Speaks 2 Languages (Spanish & English)
-
-Huge HipHop Fan Btw 😵‍💫
 
 **Hobbies:** Car Photography & Creating anything in general
